@@ -87,14 +87,4 @@ plt.grid(axis="y")
 plt.show()
 
 
-
-mean_messages = data['created_at'].dt.date.value_counts().mean()
-
-# Nachrichten pro Tag
-messages_per_day = data['created_at'].dt.date.value_counts().sort_index()
-peak_day = messages_per_day.idxmax()
-peak_count = messages_per_day.max()
-print(f"Peak am {peak_day} mit {peak_count} Nachrichten (Durchschnitt: {mean_messages:.2f})")
-
-
 data.to_csv("data/processed/probeaufgabe_2025_filled_messages.csv", index=False)
