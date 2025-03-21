@@ -27,8 +27,11 @@ category_filler = {
 data['message'] = data.apply(lambda row: category_filler[row['category']] if pd.isnull(row['message']) else row['message'], axis=1)
 
 # Zeitliche Verteilung der Nachrichten
+date_range = pd.date_range(start="2024-09-01", end="2025-06-15")
+messages_per_day = data['created_at'].dt.date.value_counts().sort_index()
+messages_per_day = messages_per_day.reindex(date_range.date, fill_value=0)
 plt.figure(figsize=(10, 5))
-data['created_at'].dt.date.value_counts().sort_index().plot(kind='line')
+messages_per_day.plot(kind='line')
 plt.xlabel("Datum")
 plt.ylabel("Anzahl der Nachrichten")
 plt.title("Zeitliche Verteilung der Nachrichten")
