@@ -1,0 +1,175 @@
+message_id,created_at,message,category
+a3f1c2d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d,2025-02-15T09:23:45Z,"Ich möchte wissen, wann mein Bausparvertrag ausgezahlt wird.",payout
+b4d2e3f5-6a7b-8c9d-0e1f-2a3b4c5d6e7f,2025-02-16T11:45:12Z,"Ich kann mich nicht mehr in mein Kundenportal einloggen, bitte helfen Sie mir.",technical_problem
+c5e3f4a6-7b8c-9d0e-1f2a-3b4c5d6e7f8a,2025-02-17T14:12:30Z,Wie kann ich meine Adresse im Kundenportal selbst ändern?,self_service
+d6f4a5b7-8c9d-0e1f-2a3b-4c5d6e7f8a9b,2025-02-18T08:55:20Z,Bitte senden Sie mir eine Übersicht meiner aktuellen Vertragsdetails zu.,contract_details
+e7a5b6c8-9d0e-1f2a-3b4c-5d6e7f8a9b0c,2025-02-19T16:40:05Z,"Ich möchte meinen Bausparvertrag kündigen, was muss ich tun?",termination
+f8b6c7d9-0e1f-2a3b-4c5d-6e7f8a9b0c1d,2025-02-20T10:15:50Z,Wann erfolgt die Auszahlung meines Guthabens nach Kündigung?,payout
+09c7d8ea-1f2a-3b4c-5d6e-7f8a9b0c1d2e,2025-02-21T13:25:35Z,"Die App stürzt ständig ab, wenn ich meine Vertragsdetails abrufen möchte.",technical_problem
+1ad8e9fb-2a3b-4c5d-6e7f-8a9b0c1d2e3f,2025-02-22T09:05:15Z,Kann ich online selbstständig meine Bankverbindung ändern?,self_service
+2be9f0ac-3b4c-5d6e-7f8a-9b0c1d2e3f4a,2025-02-23T15:30:40Z,Welche Laufzeit hat mein aktueller Bausparvertrag noch?,contract_details
+3cf0a1bd-4c5d-6e7f-8a9b-0c1d2e3f4a5b,2025-02-24T12:20:25Z,Ich möchte meinen Versicherungsvertrag zum nächstmöglichen Zeitpunkt kündigen.,termination
+4df1b2c3-5a6b-7c8d-9e0f-1a2b3c4d5e6f,2025-02-25T09:15:30Z,"Ich habe vor zwei Wochen meinen Vertrag gekündigt, aber noch keine Bestätigung erhalten. Können Sie mir bitte mitteilen, ob meine Kündigung angekommen ist?",termination
+5ea2c3d4-6b7c-8d9e-0f1a-2b3c4d5e6f7a,2025-02-26T11:40:20Z,"Beim Versuch, meine Vertragsdetails online abzurufen, erscheint ständig eine Fehlermeldung. Können Sie mir bitte helfen, das Problem zu beheben?",technical_problem
+6fb3d4e5-7c8d-9e0f-1a2b-3c4d5e6f7a8b,2025-02-27T14:05:10Z,"Ich möchte gerne wissen, ob ich meinen monatlichen Sparbetrag im Bausparvertrag eigenständig online erhöhen kann und wie ich dabei vorgehen muss.",self_service
+7ac4e5f6-8d9e-0f1a-2b3c-4d5e6f7a8b9c,2025-02-28T16:30:00Z,"Könnten Sie mir bitte mitteilen, wie hoch die Abschlussgebühr meines aktuellen Bausparvertrags war und ob diese bereits vollständig bezahlt wurde?",contract_details
+8bd5f607-9e0f-1a2b-3c4d-5e6f7a8b9c0d,2025-03-01T08:55:50Z,Ich habe meinen Bausparvertrag bereits gekündigt. Wann genau kann ich mit der Auszahlung meines angesparten Guthabens rechnen?,payout
+9ce60718-0f1a-2b3c-4d5e-6f7a8b9c0d1e,2025-03-02T10:20:40Z,"Die mobile App zeigt mir seit gestern keine aktuellen Vertragsdaten mehr an. Können Sie mir sagen, woran das liegt und wie ich das beheben kann?",technical_problem
+0df71829-1a2b-3c4d-5e6f-7a8b9c0d1e2f,2025-03-03T12:45:30Z,"Ich möchte meine Kontaktdaten aktualisieren. Können Sie mir erklären, wie ich meine Telefonnummer und E-Mail-Adresse selbstständig ändern kann?",self_service
+1e08293a-2b3c-4d5e-6f7a-8b9c0d1e2f3a,2025-03-04T15:10:20Z,"Bitte teilen Sie mir mit, wie lange mein Versicherungsvertrag noch läuft und ob eine automatische Verlängerung vorgesehen ist.",contract_details
+2f193a4b-3c4d-5e6f-7a8b-9c0d1e2f3a4b,2025-03-05T17:35:10Z,"Ich möchte meinen Versicherungsvertrag kündigen. Können Sie mir bitte mitteilen, welche Kündigungsfrist ich dabei beachten muss?",termination
+302a4b5c-4d5e-6f7a-8b9c-0d1e2f3a4b5c,2025-03-06T09:00:00Z,"Ich habe vor kurzem die Auszahlung meines Bausparvertrags beantragt. Können Sie mir sagen, ob noch Unterlagen fehlen oder alles vollständig ist?",payout
+413b5c6d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,2025-03-07T11:25:50Z,"Beim Hochladen meiner Dokumente im Kundenportal bekomme ich immer eine Fehlermeldung. Können Sie mir bitte helfen, das Problem zu lösen?",technical_problem
+524c6d7e-6f7a-8b9c-0d1e-2f3a4b5c6d7e,2025-03-08T13:50:40Z,Kann ich online selbstständig eine Beitragsfreistellung meines Bausparvertrags beantragen oder muss ich dafür ein Formular ausfüllen?,self_service
+635d7e8f-7a8b-9c0d-1e2f-3a4b5c6d7e8f,2025-03-09T16:15:30Z,Bitte senden Sie mir eine Übersicht über die bisher geleisteten Zahlungen und den aktuellen Kontostand meines Bausparvertrags zu.,contract_details
+746e8f90-8b9c-0d1e-2f3a-4b5c6d7e8f90,2025-03-10T08:40:20Z,"Ich möchte meinen Vertrag kündigen. Können Sie mir bitte bestätigen, ob eine Kündigung per E-Mail ausreicht oder ob ich schriftlich kündigen muss?",termination
+857f9a01-9c0d-1e2f-3a4b-5c6d7e8f9012,2025-03-11T09:15:00Z,"Ich bekomme ständig die Fehlermeldung „Error #403 – Zugriff verweigert!“. Können Sie mir bitte helfen, das Problem zu lösen?",technical_problem
+9680ab12-0d1e-2f3a-4b5c-6d7e8f901234,2025-03-11T10:30:45Z,Kann ich meinen Vertrag online kündigen oder muss ich das schriftlich per Post erledigen? 🤔,termination
+a791bc23-1e2f-3a4b-5c6d-7e8f90123456,2025-03-11T11:45:30Z,"Bitte senden Sie mir eine Übersicht meiner Vertragsdetails (Laufzeit, Zinssatz, Gebühren etc.) per E-Mail zu. Vielen Dank!",contract_details
+b8a2cd34-2f3a-4b5c-6d7e-8f9012345678,2025-03-11T13:00:15Z,"Ich möchte wissen, wann genau mein Guthaben ausgezahlt wird – ich habe bereits vor 3 Wochen gekündigt!",payout
+c9b3de45-3a4b-5c6d-7e8f-90123456789a,2025-03-11T14:15:00Z,Wie kann ich meine Adresse und Telefonnummer im Kundenportal selbst ändern? Gibt es dafür eine Anleitung?,self_service
+dac4ef56-4b5c-6d7e-8f90-123456789abc,2025-03-11T15:30:45Z,Beim Hochladen meiner Dokumente erscheint immer die Meldung: „Dateiformat nicht unterstützt!“. Welche Formate sind erlaubt?,technical_problem
+ebd5f067-5c6d-7e8f-9012-3456789abcde,2025-03-11T16:45:30Z,Ich möchte meinen monatlichen Sparbetrag erhöhen – geht das online oder muss ich dafür ein Formular ausfüllen?,self_service
+fce60178-6d7e-8f90-1234-56789abcdef0,2025-03-11T18:00:15Z,"Bitte bestätigen Sie mir schriftlich, ob meine Kündigung (vom 01.03.2025) bei Ihnen eingegangen ist. Danke!",termination
+0df71289-7e8f-9012-3456-789abcdef012,2025-03-11T19:15:00Z,Wann erfolgt die Auszahlung meines Guthabens nach Kündigung? Gibt es eine gesetzliche Frist dafür?,payout
+1e08239a-8f90-1234-5678-9abcdef01234,2025-03-11T20:30:45Z,"Ich benötige dringend eine Übersicht meiner Vertragsdetails inkl. Zinssatz, Laufzeit & Gebühren. Können Sie mir diese zusenden?",contract_details
+2f1934ab-9012-3456-789a-bcdef0123456,2025-03-11T21:45:30Z,"Die App zeigt mir ständig „Verbindungsfehler ⚠️“ an, obwohl mein Internet funktioniert. Können Sie mir helfen?",technical_problem
+302a45bc-0123-4567-89ab-cdef01234567,2024-09-11T23:00:15Z,Kann ich online selbstständig meine Bankverbindung ändern oder muss ich dafür ein Formular ausfüllen und einsenden?,self_service
+3a2045bc-1234-5678-9abc-def012345678,2024-09-01T08:15:00Z,"Ich benötige dringend eine Übersicht meiner Vertragsdetails (Tarif, Laufzeit, Gebühren). Können Sie mir diese per E-Mail zusenden?",contract_details
+4b3156cd-2345-6789-abcd-ef0123456789,2024-09-02T22:15:00Z,"Ich möchte meinen Vertrag kündigen. Gibt es eine Kündigungsfrist, die ich beachten muss? Vielen Dank im Voraus!",termination
+5c4267de-3456-789a-bcde-f0123456789a,2024-09-04T23:30:00Z,"Beim Login erscheint immer die Meldung: „Passwort ungültig!“. Ich bin mir aber sicher, dass ich es richtig eingegeben habe. Was kann ich tun?",technical_problem
+6c4267de-4567-89ab-cdef-0123456789ab,2024-09-05T07:45:00Z,Ich habe meinen Vertrag gekündigt. Wann genau erfolgt die Auszahlung meines Guthabens? 💰,payout
+5c4267de-3456-789a-bcde-f0123456123a,2024-09-08T07:30:00Z,"Wie lange läuft mein aktueller Vertrag noch? Gibt es eine automatische Verlängerung, wenn ich nicht kündige?",contract_details
+7d5378a1-1234-4abc-9def-567890abcdef,2024-09-09T09:15:00Z,"Guten Tag, ich versuche seit Tagen, mich im Kundenportal anzumelden, aber es klappt einfach nicht! Bitte beheben Sie das Problem umgehend. MfG",technical_problem
+8e6489b2-2345-5bcd-aef0-678901bcdefa,2024-09-11T10:30:00Z,"Hallo, ich möchte wissen, ob ich meinen Vertrag online kündigen kann oder ob ich das schriftlich machen muss. Danke und viele Grüße!",termination
+9f759ac3-3456-6cde-bf01-789012cdefab,2024-09-11T11:45:00Z,"Sehr geehrte Damen und Herren, könnten Sie mir bitte mitteilen, wann genau mein Guthaben ausgezahlt wird? Vielen Dank im Voraus!",payout
+a086abd4-4567-7def-c012-890123defabc,2024-09-11T13:00:00Z,"Hallo, ich möchte meine Adresse selbstständig ändern. Gibt es dafür ein Formular oder geht das online? Danke und beste Grüße!",self_service
+b197bce5-5678-8efa-d123-901234efabcd,2024-09-21T14:15:00Z,"Guten Tag, könnten Sie mir bitte eine Übersicht meiner Vertragsdetails zusenden (Laufzeit, Gebühren, Zinssatz)? Vielen Dank!",contract_details
+c2a8cdf6-6789-9fab-e234-012345fabcde,2024-09-22T15:30:00Z,"Hallo, ich bekomme ständig die Meldung „Server nicht erreichbar“. Das nervt langsam wirklich! Bitte beheben Sie das Problem schnellstmöglich!",technical_problem
+d3b9de07-789a-0abc-f345-123456abcdef,2024-09-23T16:45:00Z,"Sehr geehrte Damen und Herren, ich möchte meinen Vertrag kündigen. Bitte bestätigen Sie mir den Eingang meiner Kündigung. MfG",termination
+e4cade18-89ab-1bcd-0456-234567bcdefa,2024-09-24T18:00:00Z,"Hallo, wann genau erfolgt die Auszahlung meines Guthabens nach Kündigung? Ich warte bereits seit Wochen! Freundliche Grüße",payout
+f5dbef29-9abc-2cde-1567-345678cdefab,2024-09-26T19:15:00Z,"Guten Abend, ich möchte meine Bankverbindung ändern. Kann ich das online erledigen oder benötige ich ein Formular? Danke!",self_service
+06ecf03a-abcd-3def-2678-456789defabc,2025-03-12T20:30:00Z,"Sehr geehrte Damen und Herren, bitte senden Sie mir eine detaillierte Übersicht meiner Vertragskonditionen zu. Vielen Dank!",contract_details
+17fd014b-bcde-4efa-3789-567890efabcd,2025-03-12T21:45:00Z,"Hallo, ich bin wirklich enttäuscht! Die App funktioniert seit Tagen nicht richtig. Bitte kümmern Sie sich endlich darum!",technical_problem
+280e125c-cdef-5fab-4890-678901fabcde,2025-03-12T23:00:00Z,"Guten Tag, ich möchte meinen Vertrag kündigen. Welche Kündigungsfrist gilt für mich? Danke und freundliche Grüße!",termination
+391f236d-def0-6abc-5901-789012abcdef,2025-03-13T08:15:00Z,"Hallo, wann erfolgt die Auszahlung meines Guthabens? Ich habe bisher keine Informationen erhalten. MfG",payout
+4a20347e-ef01-7bcd-6012-890123bcdefa,2025-03-13T09:30:00Z,"Sehr geehrte Damen und Herren, wie kann ich meine Telefonnummer im Kundenportal selbst ändern? Vielen Dank!",self_service
+5b31458f-f012-8cde-7123-901234cdefab,2025-03-13T10:45:00Z,"Hallo, bitte senden Sie mir eine Übersicht meiner Vertragslaufzeit und Gebühren zu. Danke und beste Grüße!",contract_details
+6c4256a0-0123-9def-8234-012345defabc,2025-03-13T12:00:00Z,"Guten Tag, ich bin langsam wirklich sauer! Seit Tagen funktioniert der Login nicht. Bitte beheben Sie das Problem sofort!",technical_problem
+7d5367b1-1234-0efa-9345-123456efabcd,2025-03-13T13:15:00Z,"Hallo, ich möchte meinen Vertrag kündigen. Bitte teilen Sie mir mit, ob eine Kündigung per E-Mail möglich ist. MfG",termination
+8e6478c2-2345-4abc-9def-567890abcdef,2025-03-13T14:30:00Z,"Guten Tag, ich habe vor 2 Wochen gekündigt, aber noch keine Bestätigung erhalten. Bitte prüfen Sie das dringend! MfG",termination
+9f7589d3-3456-5bcd-aef0-678901bcdefa,2025-03-13T15:45:00Z,,technical_problem
+a0869ae4-4567-6cde-bf01-789012cdefab,2025-03-13T17:00:00Z,"Hallo, ich möchte wissen, wann mein Guthaben ausgezahlt wird. Ich warte bereits seit Wochen auf eine Antwort! Freundliche Grüße",payout
+b197abf5-5678-7def-c012-890123defabc,2025-03-13T18:15:00Z,"Sehr geehrte Damen und Herren, wie kann ich meine Adresse im Kundenportal selbst ändern? Vielen Dank im Voraus!",self_service
+c2a8bc06-6789-8efa-d123-901234efabcd,2025-03-13T19:30:00Z,,contract_details
+d3b9cd17-789a-9fab-e234-012345fabcde,2025-03-13T20:45:00Z,"Hallo, ich bin wirklich enttäuscht! Seit Tagen funktioniert die App nicht richtig. Bitte beheben Sie das Problem endlich! MfG",technical_problem
+e4cade28-89ab-0abc-f345-123456abcdef,2025-03-13T22:00:00Z,"Guten Abend, ich möchte meinen Vertrag kündigen. Bitte teilen Sie mir mit, ob eine Kündigung per E-Mail möglich ist. Danke!",termination
+f5dbef39-9abc-1bcd-0456-234567bcdefa,2025-03-14T08:15:00Z,"Sehr geehrte Damen und Herren, bitte senden Sie mir eine detaillierte Übersicht meiner Vertragskonditionen zu. Vielen Dank!",contract_details
+06ecf04a-abcd-2cde-1567-345678cdefab,2025-03-14T09:30:00Z,,self_service
+17fd015b-bcde-3def-2678-456789defabc,2025-03-14T10:45:00Z,"Hallo, ich habe meinen Vertrag bereits gekündigt. Wann genau erfolgt die Auszahlung meines Guthabens? Freundliche Grüße",payout
+a1b2c3d4-5678-90ab-cdef-123456789abc,2025-03-14T12:00:00Z,"Hallo, ich warte seit Wochen auf die Auszahlung meines Guthabens! Wann passiert hier endlich etwas? MfG",payout
+b2c3d4e5-6789-0abc-def1-23456789abcd,2025-03-14T13:15:00Z,"Guten Tag, ich möchte meine Adresse ändern. Kann ich das online selbst erledigen oder muss ich ein Formular ausfüllen? Danke und Grüße!",self_service
+c3d4e5f6-7890-1bcd-ef12-3456789abcde,2025-03-14T14:30:00Z,,technical_problem
+d4e5f607-8901-2cde-f123-456789abcdef,2025-03-14T15:45:00Z,"Guten Tag, ich möchte meine Adresse ändern, finde aber keine Möglichkeit dazu im Kundenportal. Können Sie mir helfen? Danke!",self_service
+e5f60718-8901-2cde-f123-456789abcdef,2025-03-14T17:00:00Z,"Hallo, könnten Sie mir bitte mitteilen, wie lange mein Vertrag noch läuft und ob eine automatische Verlängerung vorgesehen ist? Vielen Dank!",contract_details
+f6071829-9012-3def-0123-56789abcdef0,2025-03-14T15:45:00Z,"Guten Tag, ich möchte meinen Vertrag kündigen. Bitte bestätigen Sie mir den Eingang meiner Kündigung schriftlich. Freundliche Grüße!",termination
+0718293a-0123-4efa-1234-6789abcdef01,2025-03-14T17:00:00Z,"Hallo, warum bekomme ich ständig die Meldung „Serverfehler 500“ beim Login? Bitte beheben Sie das Problem schnellstmöglich!",technical_problem
+18293a4b-0123-4abc-1234-6789abcdef01,2025-03-14T17:00:00Z,"Sehr geehrte Damen und Herren, könnten Sie mir bitte mitteilen, wie lange mein Vertrag noch läuft und welche Gebühren aktuell anfallen? Vielen Dank!",contract_details
+293a4b5c-1234-5bcd-2345-6789abcdef01,2025-03-14T17:00:00Z,,termination
+3a4b5c6d-2345-6cde-3456-789abcdef012,2025-03-14T18:15:00Z,"Sehr geehrte Damen und Herren, ich möchte wissen, ob ich meinen monatlichen Sparbetrag online erhöhen kann. Vielen Dank im Voraus!",self_service
+4b5c6d7e-2345-6cde-3456-789abcdef012,2025-03-14T18:15:00Z,"Hallo, ich habe vor 2 Wochen gekündigt und noch keine Bestätigung erhalten. Bitte kümmern Sie sich endlich darum!",termination
+5c6d7e8f-3456-7def-4567-89abcdef0123,2025-03-14T18:15:00Z,"Hallo, wann genau erfolgt die Auszahlung meines Guthabens nach Kündigung? Ich bitte um eine schnelle Antwort. MfG",payout
+6d7e8f90-4567-8efa-5678-9abcdef01234,2025-03-14T19:30:00Z,"Guten Abend, ich bin wirklich enttäuscht, dass ich seit Tagen keine Antwort auf meine Kündigung erhalten habe. Bitte reagieren Sie endlich!",termination
+6d7e8f90-5678-8efa-5678-9abcdef01234,2025-03-14T20:45:00Z,"Hallo, ich benötige dringend eine Übersicht meiner Vertragsdetails (Zinssatz, Laufzeit, Gebühren). Können Sie mir diese zusenden?",contract_details
+7e8f9012-4567-8fab-5678-9abcdef01234,2025-03-14T20:45:00Z,"Hallo, ich möchte meine Telefonnummer ändern. Kann ich das online erledigen oder muss ich dafür ein Formular ausfüllen? Danke!",self_service
+8f901234-5678-9abc-6789-abcdef012345,2025-03-14T21:45:00Z,"Hallo, ich bekomme ständig die Meldung „Fehler beim Laden der Daten“. Bitte beheben Sie das Problem umgehend!",technical_problem
+8f901234-5678-9abc-7890-bcdef0123456,2025-03-14T22:45:00Z,"Guten Abend, ich möchte meine Bankverbindung ändern. Geht das online oder muss ich ein Formular ausfüllen? Danke!",self_service
+8f901234-5678-9abc-7890-bcdef0123127,2025-03-14T22:45:00Z,"Guten Abend, ich möchte meinen Vertrag kündigen. Bitte teilen Sie mir mit, ob eine Kündigung per E-Mail möglich ist. MfG",termination
+9a012345-6789-abcd-8901-cdef01234567,2025-03-14T23:45:00Z,"Hallo, wann erfolgt endlich die Auszahlung meines Guthabens? Ich warte schon viel zu lange darauf!",payout
+ab123456-789a-bcde-9012-def012345678,2025-03-15T08:00:00Z,"Guten Morgen, ich möchte meinen Vertrag kündigen. Bitte teilen Sie mir die Kündigungsfrist mit. Vielen Dank!",termination
+1a2b3c4d-5e6f-7081-9203-abcdef123456,2025-03-15T09:15:00Z,"Guten Morgen! Ich plane gerade meine Finanzen neu und möchte wissen, ob ich meinen Sparbetrag online selbst anpassen kann. Danke & einen schönen Tag!",self_service
+2b3c4d5e-6f70-8192-0304-bcdefa234567,2025-03-15T10:30:00Z,"Hallo liebes Support-Team, können Sie mir bitte kurz mitteilen, ob es möglich ist, meinen Bausparvertrag vorzeitig auszahlen zu lassen – und welche Gebühren dabei anfallen würden? Herzlichen Dank!",contract_details
+3c4d5e6f-7081-9203-0405-cdefab345678,2025-03-15T11:45:00Z,"Hi, ich habe geheiratet und möchte meinen Namen ändern. Gibt's dafür eine schnelle Online-Funktion oder muss ich Papierkram erledigen? 😉 Beste Grüße!",self_service
+4d5e6f70-8192-0304-0506-defabc456789,2025-03-15T13:00:00Z,"Sehr geehrte Damen und Herren, könnten Sie mir bitte sagen, wann genau die Zuteilungsreife meines Vertrags erreicht ist? Vielen Dank & beste Grüße!",contract_details
+5e6f7081-9203-0405-0607-efabcd567890,2025-03-15T14:15:00Z,"Hallo, ich ziehe bald um und würde gern meine Kontaktdaten direkt online aktualisieren. Ist das möglich? Vielen Dank!",self_service
+6f708192-0304-0506-0708-fabcde678901,2025-03-15T15:30:00Z,"Guten Tag, ich bräuchte dringend eine Info über die aktuelle Bewertungszahl meines Bausparvertrags. Können Sie mir diese zusenden? Danke im Voraus!",contract_details
+70819203-0405-0607-0809-abcdef789012,2025-03-15T16:45:00Z,"Servus, ich möchte meine monatliche Einzahlung pausieren – geht das über das Portal oder muss ich Ihnen etwas Schriftliches senden? Danke vielmals!",self_service
+81920304-0506-0708-090a-bcdefa890123,2025-03-15T18:00:00Z,"Hallo zusammen, ich hätte gern eine detaillierte Übersicht aller bisher angefallenen Gebühren und Entgelte meines Vertrags. Vielen Dank!",contract_details
+92030405-0607-0809-0a0b-cdefab901234,2025-03-15T19:15:00Z,"Kann ich eigentlich online irgendwo nachvollziehen, wie weit mein Bausparvertrag aktuell bespart ist? Falls ja, wie geht das? Einen schönen Abend!",self_service
+a2030405-0708-090a-0b0c-defabc012345,2025-03-15T20:30:00Z,"Guten Abend, ich würde gerne wissen, ob mein Vertrag Sonderzahlungen erlaubt – und falls ja, bis zu welcher Höhe? Danke & Grüße!",contract_details
+b3040506-0809-0a0b-0c0d-efabcd123456,2025-03-15T21:45:00Z,"Hallo, gibt es eine Möglichkeit, meine Bankverbindung online direkt und unkompliziert zu aktualisieren? Danke vorab!",self_service
+c4050607-090a-0b0c-0d0e-fabcde234567,2025-03-15T23:00:00Z,"Könnten Sie mir bitte eine kurze Info geben, wie hoch aktuell die Guthabenverzinsung meines Vertrags ist? Lieben Dank!",contract_details
+d5060708-0a0b-0c0d-0e0f-abcdef345678,2025-03-16T08:15:00Z,"Ich würde gerne meinen Vertrag online verwalten; können Sie mir sagen, wie ich mich für das Kundenportal registriere? Danke!",self_service
+e6070809-0b0c-0d0e-0f10-bcdefa456789,2025-03-16T09:30:00Z,"Guten Morgen, wie lange läuft eigentlich mein Vertrag noch genau? Und gibt es eine automatische Verlängerung? Danke!",contract_details
+f708090a-0c0d-0e0f-1011-cdefab567890,2025-03-16T10:45:00Z,"Hallo, ich möchte meine Beitragszahlungen kurzzeitig reduzieren. Kann ich das selbst online einstellen? Beste Grüße!",self_service
+12345678-9abc-def0-1234-56789abcdef0,2025-03-16T12:00:00Z,"Hallo liebe Kundenbetreuung, kann ich online nachvollziehen, wann genau mein Vertrag zuteilungsreif ist? Danke und liebe Grüße!",self_service
+23456789-abcd-ef01-2345-6789abcdef01,2025-03-16T13:15:00Z,"Guten Tag, könnten Sie mir bitte mitteilen, ob ich Sondertilgungen leisten darf und welche Gebühren dafür fällig werden? Dankeschön!",contract_details
+3456789a-bcde-f012-3456-789abcdef012,2025-03-16T14:30:00Z,Hi! Ich habe gerade Nachwuchs bekommen 🍼 und würde gern online die Begünstigten meines Vertrags aktualisieren. Ist das möglich?,self_service
+456789ab-cdef-0123-4567-89abcdef0123,2025-03-16T15:45:00Z,"Sehr geehrte Damen und Herren, ich benötige dringend eine Übersicht zu meinen Vertragskonditionen (Zinsen, Gebühren und Laufzeit). Danke im Voraus!",contract_details
+56789abc-def0-1234-5678-9abcdef01234,2025-03-16T17:00:00Z,"Hallo, gibt es eine Möglichkeit, meine monatliche Sparrate online flexibel anzupassen? Vielen Dank und einen schönen Tag!",self_service
+6789abcd-ef01-2345-6789-abcdef012345,2025-03-16T18:15:00Z,"Guten Abend! Können Sie mir bitte mitteilen, wie hoch meine Abschlussgebühr war und ob diese bereits vollständig bezahlt wurde? Danke!",contract_details
+789abcde-f012-3456-789a-bcdef0123456,2025-03-16T19:30:00Z,"Servus! Ich möchte meine E-Mail-Adresse aktualisieren. Geht das direkt online, oder brauche ich dafür ein Formular? Danke euch!",self_service
+89abcdef-0123-4567-89ab-cdef01234567,2025-03-16T20:45:00Z,"Hallo, ich wüsste gern, ob mein Vertrag eine Mindestlaufzeit hat oder ich jederzeit kündigen könnte? Danke für eine kurze Info!",contract_details
+9abcdef0-1234-5678-9abc-def012345678,2025-03-16T22:00:00Z,"Guten Abend, ich würde gern eigenständig online meine Zahlungsweise ändern (monatlich auf jährlich). Ist das möglich?",self_service
+abcdef01-2345-6789-abcd-ef0123456789,2025-03-17T08:15:00Z,"Könnten Sie mir bitte eine genaue Info geben, wie hoch aktuell mein angespartes Guthaben ist? Vielen Dank und beste Grüße!",contract_details
+bcdef012-3456-789a-bcde-f0123456789a,2025-03-17T09:30:00Z,"Guten Morgen, ich möchte den Empfänger meiner Vertragsunterlagen ändern. Kann ich das im Kundenportal erledigen?",self_service
+cdef0123-4567-89ab-cdef-0123456789ab,2025-03-17T10:45:00Z,"Sehr geehrte Damen und Herren, könnten Sie mir bitte mitteilen, ob mein Vertrag eine Wohnungsbauprämie beinhaltet? Danke!",contract_details
+def01234-5678-9abc-def0-123456789abc,2025-03-17T12:00:00Z,"Hi, ich würde gern online prüfen, ob meine letzten Zahlungen eingegangen sind. Wo finde ich das im Kundenportal?",self_service
+ef012345-6789-abcd-ef01-23456789abcd,2025-03-17T13:15:00Z,"Hallo, ich brauche eine Übersicht meiner Vertragsentwicklung über die letzten 3 Jahre. Können Sie mir das zusenden? Danke!",contract_details
+f0123456-789a-bcde-f012-3456789abcde,2025-03-17T14:30:00Z,"Servus, ich würde gern eigenständig einen Freistellungsauftrag hinterlegen. Geht das online? Danke schon mal!",self_service
+01234567-89ab-cdef-0123-456789abcdef,2025-03-17T15:45:00Z,"Guten Tag, wie hoch ist meine monatliche Kontoführungsgebühr derzeit? Vielen Dank und schöne Grüße!",contract_details
+11234567-89ab-cdef-0123-456789abcdef,2025-03-17T17:00:00Z,"Hallo, ich möchte gern mein Passwort fürs Kundenportal ändern – finde aber keine Option dafür. Wo geht das genau?",self_service
+21234567-89ab-cdef-0123-456789abcdef,2025-03-17T18:15:00Z,"Könnten Sie mir mitteilen, ob mein Vertrag eine Bonuszahlung bei Erreichen bestimmter Sparziele vorsieht?",contract_details
+11aa22bb-33cc-44dd-55ee-6677ff889900,2025-03-16T12:00:00Z,"Hallo, ich möchte einen Dauerauftrag für meine Sparraten einrichten. Wo finde ich meine Vertragsnummer, um dies einzutragen? Vielen Dank und schöne Grüße!",self_service
+22bb33cc-44dd-55ee-66ff-77889900aabb,2025-03-16T13:15:00Z,"Guten Tag! Können Sie mir bitte sagen, wann mein Vertrag frühestens zuteilungsreif ist und ob ich darüber informiert werde? Danke schön!",contract_details
+33cc44dd-55ee-66ff-77aa-889900bbccdd,2025-03-16T14:30:00Z,"Hi Team, ich möchte gerne eine zusätzliche Einmalzahlung leisten. Kann ich das direkt im Kundenportal selbst tun? Danke im Voraus!",self_service
+44dd55ee-66ff-77aa-88bb-9900ccddeeff,2025-03-16T15:45:00Z,"Hallo, könnten Sie mir bitte mitteilen, ob mein Vertrag staatliche Förderungen (z.B. Wohnungsbauprämie) erhält? Besten Dank!",contract_details
+55ee66ff-77aa-88bb-99cc-00ddeeff1122,2025-03-16T17:00:00Z,"Guten Abend, ich möchte meine Postanschrift aktualisieren. Gibt es hierfür eine Selbst-Service-Funktion im Kundenportal? Danke & Grüße!",self_service
+66ff77aa-88bb-99cc-00dd-eeff11223344,2025-03-16T18:15:00Z,Bitte schicken Sie mir eine Übersicht über meine bisherigen Einzahlungen und den aktuellen Kontostand meines Vertrags. Herzlichen Dank!,contract_details
+77aa88bb-99cc-00dd-eeff-112233445566,2025-03-16T19:30:00Z,"Hi, ich möchte online eine Pause meiner Sparraten beantragen – wo finde ich diese Funktion im Kundenportal? Danke euch!",self_service
+88bb99cc-00dd-eeff-1122-334455667788,2025-03-16T20:45:00Z,"Sehr geehrte Damen und Herren, wie hoch war die Abschlussgebühr meines Vertrags und wurde diese bereits vollständig beglichen? Vielen Dank!",contract_details
+99cc00dd-eeff-1122-3344-556677889900,2025-03-16T22:00:00Z,"Hallo zusammen, ich würde gerne meine E-Mail-Adresse selbstständig ändern – geht das im Kundenportal? Vielen Dank!",self_service
+00ddee11-ff22-3344-5566-778899aabbcc,2025-03-17T08:15:00Z,Ich brauche Informationen über die genaue Laufzeit meines Vertrags und ob ich ihn vorzeitig kündigen kann. Danke für Ihre Auskunft!,contract_details
+aabbccdd-eeff-0011-2233-445566778899,2025-06-04T09:30:00Z,"Guten Morgen, ich möchte meine Sparrate erhöhen. Gibt es dafür eine einfache Online-Funktion oder Formular? Danke & schönen Tag noch!",self_service
+bbccdde0-ff11-2233-4455-66778899aabb,2025-06-06T10:45:00Z,"Könnten Sie mir bitte mitteilen, wann mein Vertrag abgeschlossen wurde und wie lange die Bindungsfrist noch läuft? Vielen Dank!",contract_details
+ccddee11-2233-4455-6677-8899aabbccdd,2025-06-06T12:00:00Z,"Hallo, ich möchte meine Kommunikationspräferenzen (Post oder E-Mail) ändern – geht das direkt online? Danke im Voraus!",self_service
+ddeeff22-3344-5566-7788-99aabbccddee,2025-06-07T13:15:00Z,Bitte teilen Sie mir meinen aktuellen Zinssatz und eventuelle Bonuszahlungen meines Vertrags mit. Vielen Dank!,contract_details
+eeff0033-4455-6677-8899-aabbccddeeff,2025-06-08T14:30:00Z,Ich würde gerne meine monatliche Abbuchung vom Konto auf Lastschriftverfahren umstellen – kann ich das online machen?,self_service
+ff001144-5566-7788-99aa-bbccddeeff00,2025-06-08T15:45:00Z,"Guten Tag, wann erfolgt die nächste jährliche Abrechnung meines Vertrags und bekomme ich diese per Post oder digital? Danke!",contract_details
+11f6a2d3-4e89-4b2a-9df2-cb1234567890,2025-06-09T12:00:00Z,"Hallo, ich möchte meinen Sparbetrag ab nächsten Monat erhöhen. Kann ich das direkt online einstellen, oder brauche ich ein Formular dafür? Danke & liebe Grüße!",self_service
+22e7b3c4-5f90-5c3b-0ef3-dc2345678901,2025-06-11T13:15:00Z,"Guten Tag, wie hoch ist momentan der Zinssatz auf mein Bausparguthaben? Können Sie mir hierzu aktuelle Infos zuschicken? Besten Dank!",contract_details
+33d8c4e5-6091-6d4c-1fa4-ed3456789012,2025-06-12T14:30:00Z,"Kann ich die Laufzeit meines Vertrages online einsehen? Falls ja, wo genau finde ich diese Informationen? Vielen Dank schon mal!",self_service
+44c9d5f6-7192-7e5d-2ab5-fe4567890123,2025-06-13T15:45:00Z,"Sehr geehrte Damen und Herren, welche Gebühren fallen an, wenn ich meinen Vertrag vorzeitig kündigen möchte? Viele Grüße!",contract_details
+55bae607-8293-8f6e-3bc6-af5678901234,2025-06-14T17:00:00Z,"Ich habe eine neue Telefonnummer, würde diese gern online aktualisieren. Wo und wie geht das im Kundenportal? Danke für die Hilfe!",self_service
+66abf718-9394-907f-4cd7-b06789012345,2025-06-16T18:15:00Z,"Hallo, könnten Sie mir bitte sagen, ob mein Bausparvertrag bereits zuteilungsreif ist? Ich plane gerade eine Anschaffung. Vielen Dank!",contract_details
+77ac0829-a495-0180-5de8-c17890123456,2025-03-16T19:30:00Z,"Kann ich online Sonderzahlungen auf meinen Vertrag tätigen? Falls ja, wie genau funktioniert das? Danke!",self_service
+88bd193a-b596-1291-6ef9-d28901234567,2025-03-16T20:45:00Z,"Guten Abend, ich bitte um eine aktuelle Übersicht meiner Vertragsdetails, insbesondere Restlaufzeit und Gebühren. Herzlichen Dank!",contract_details
+99ce2a4b-c697-23a2-7f0a-e39012345678,2025-03-16T22:00:00Z,"Servus, ich bin umgezogen. Gibt es im Kundenportal eine Möglichkeit, meine neue Adresse selbst einzugeben? Danke für die Info!",self_service
+aadd3b5c-d798-34b3-801b-f40123456789,2025-03-17T08:15:00Z,"Hallo, welche Möglichkeiten habe ich, um meinen Vertrag beitragsfrei zu stellen, und welche Auswirkungen hätte das?",contract_details
+bbfe4c6d-e899-45c4-912c-05123456789a,2025-03-17T09:30:00Z,"Guten Morgen, ich möchte künftig eine andere Bankverbindung hinterlegen. Kann ich das selbst online ändern?",self_service
+cc0f5d7e-f9a0-56d5-a23d-1623456789ab,2025-03-20T10:45:00Z,"Hallo, ich benötige eine Auskunft über eventuelle Abschlussgebühren meines Vertrages. Wurden diese bereits vollständig beglichen?",contract_details
+dd106e8f-0ab1-67e6-b34e-273456789abc,2025-03-21T12:00:00Z,"Kann ich selbstständig eine Beitragsanpassung online vornehmen, oder muss das schriftlich erfolgen? Danke für Ihre Info!",self_service
+ee217f90-1bc2-78f7-c45f-38456789abcd,2025-03-21T13:15:00Z,"Sehr geehrte Damen und Herren, ich würde gern wissen, ob mein Vertrag automatisch verlängert wird, falls ich nicht kündige. Vielen Dank!",contract_details
+ff3280a1-2cd3-8908-d560-4956789abcde,2025-03-23T14:30:00Z,"Hallo, ich möchte meine E-Mail-Adresse aktualisieren. Kann ich das im Kundenportal selbstständig tun?",self_service
+004391b2-3de4-9019-e671-5a6789abcdef,2025-03-24T15:45:00Z,"Könnten Sie mir bitte sagen, wie meine aktuelle Bewertungszahl lautet und wann mein Vertrag zur Auszahlung bereitsteht?",contract_details
+aa12bb34-cc56-dd78-ee90-ff1122334455,2025-03-26T17:00:00Z,"Hallo Support! Ich ziehe bald in mein Traumhaus 🏡 und will checken, ob ich online schnell die Adresse ändern kann – ohne Papierkrieg. Geht das?",self_service
+bb23cc45-dd67-ee89-ff01-223344556677,2025-03-29T18:15:00Z,"Hi zusammen, ich würde super gerne wissen, ob mein Vertrag einen Bonus bei regelmäßigen Einzahlungen enthält. Ein kleines Extra wäre echt toll! 😉",contract_details
+cc34dd56-ee78-ff90-0123-334455667788,2025-03-29T19:30:00Z,"Hallo, ich möchte meine Sparrate dynamisch erhöhen lassen – geht das automatisch online oder braucht's da Papierkrieg? Danke euch!",self_service
+cc34dd56-ee78-ff90-0123-334455662233,2024-10-17T20:45:00Z,"Guten Abend, könnten Sie mir bitte verraten, wie es um meinen Bonuszins steht? Ist da schon was in Sicht? 😊 Danke!",contract_details
+dd34ee56-ff78-0012-1134-445566778899,2024-10-17T20:45:00Z,"Servus, ich möchte meinen Bausparvertrag online mit einem eigenen Namen versehen (z.B. „Hausprojekt 2026“). Geht das?",self_service
+ee45ff67-0012-1123-3345-556677889900,2024-10-17T22:00:00Z,"Hallo! Können Sie mir bitte verraten, ob in meinem Vertrag eine Sonderkündigung möglich wäre, wenn ich ins Ausland ziehe? Danke!",contract_details
+ff450012-2233-4455-6677-889900aabbcc,2024-10-18T08:15:00Z,"Guten Morgen! Gibt es eine smarte Möglichkeit, meine Kontaktdaten (Telefon, Mail) schnell online selbst anzupassen? Merci!",self_service
+ee45ff78-1123-2234-4456-667788990011,2024-10-18T09:15:00Z,"Guten Tag, könnten Sie mir eine kurze Info geben, wann ich die Bausparsumme frühestens verwenden könnte, um ein Tiny-House zu bauen? 🏡🌳 Danke!",contract_details
+ff56aa89-2234-3345-5567-667788990011,2024-10-17T23:15:00Z,Ich möchte gerne direkt online einen Freistellungsauftrag für meine Zinsen einrichten – wo mache ich das am besten?,self_service
+aa67bb90-3345-4456-6678-778899001122,2024-10-18T08:30:00Z,Bitte senden Sie mir eine transparente Übersicht meiner bisherigen Sparleistung inklusive aller Prämien und Boni. Danke!,contract_details
+bb67cc90-3345-4456-7789-889900112233,2024-11-04T09:45:00Z,"Hey, gibt's eine Möglichkeit, online einen Freistellungsauftrag für meine Zinsen einzurichten? Wäre klasse, danke!",self_service
+cc78bb90-3345-4456-6678-778899001233,2024-11-04T09:45:00Z,"Hallo liebes Team! Welche Optionen habe ich bei meinem Vertrag, um meine Sparrate temporär auszusetzen? Danke für die Info!",contract_details
+dd89cc01-4456-5567-7789-889900112344,2024-11-04T11:00:00Z,"Hi, ich ziehe um und möchte schnellstmöglich meine neue Adresse online hinterlegen. Wie mach ich das genau? Danke vielmals!",self_service
+ee89cc01-4456-5567-8890-990011223455,2024-11-06T12:15:00Z,"Guten Tag, könnten Sie mir bitte sagen, wie hoch meine aktuelle Bewertungszahl ist und wann mein Vertrag vermutlich zugeteilt wird? Danke!",contract_details
+ff90cc01-4456-5567-9900-001122334455,2024-11-08T12:15:00Z,Kann ich online einen Überblick über alle bisher gezahlten Gebühren erhalten? Ich finde das leider gerade nicht. Danke fürs Helfen!,self_service
+aa01dd12-5567-6678-0011-112233445566,2024-11-11T12:15:00Z,Ich plane eine Modernisierung meines Hauses – deckt mein Vertrag so etwas ab oder brauche ich einen neuen? Danke im Voraus!,contract_details
+bb12ee23-6678-7789-1122-223344556677,2024-12-11T13:30:00Z,"Liebes Team, ich möchte gern online meine Zahlungsart von Überweisung auf Lastschrift ändern – wie mache ich das? Danke!",self_service
+cc23ee34-6678-7789-1122-223344556677,2024-12-23T13:30:00Z,Bitte senden Sie mir Infos über die Zinshistorie seit Vertragsbeginn – das wäre super hilfreich für meine Unterlagen!,contract_details
+dd34ff45-7789-8890-2233-334455667788,2024-12-26T13:30:00Z,"Hallo, kann ich online meinen Vertrag beitragsfrei stellen lassen, falls ich kurzfristig weniger Einkommen habe? Danke für Info!",self_service
+ee45aa56-8890-9901-3344-445566778899,2024-12-30T14:45:00Z,"Bitte teilen Sie mir mit, ob mein Vertrag eine flexible Laufzeit hat oder ob ich an feste Fristen gebunden bin. Danke!",contract_details
+ff45aa56-8890-9901-3344-445566778899,2024-12-31T15:00:00Z,"Kann ich meine Sparfortschritte und die aktuellen Vertragsdetails online jederzeit einsehen? Falls ja, wo genau finde ich das?",self_service
